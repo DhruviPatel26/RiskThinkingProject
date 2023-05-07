@@ -1,0 +1,16 @@
+#chart-container {
+    width: 800px;
+    height: 600px;
+    margin: 20px auto;
+  }
+  
+  #controls-container {
+    margin: 20px auto;
+    width: 800px;
+    text-align: center;
+  }
+  
+  select {
+    margin: 0 20px;
+  }
+  
